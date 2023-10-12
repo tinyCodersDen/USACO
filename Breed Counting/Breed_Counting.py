@@ -1,3 +1,9 @@
+'''
+Breed Counting
+tinyCodersDen
+USACO
+2015 December Contest, Silver
+'''
 file = open('bcount.in','r')
 writefile = open('bcount.out','a')
 z = file.readline().split(' ')
