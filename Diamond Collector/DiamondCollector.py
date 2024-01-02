@@ -1,3 +1,9 @@
+'''
+Diamond Collector
+tinyCodersDen
+USACO
+2016 US Open Contest, Bronze
+'''
 f = open('diamond.in','r')
 N,k  = list(map(int,f.readline().split(' ')))
 l = []
