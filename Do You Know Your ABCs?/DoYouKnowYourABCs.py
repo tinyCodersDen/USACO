@@ -1,3 +1,9 @@
+'''
+Do You Know Your ABCs?
+tinyCodersDen
+USACO
+2020 December Contest, Bronze
+'''
 ask = input("")
 list1 = ask.split(' ')
 list1 = [int(y) for y in list1]
