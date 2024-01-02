@@ -1,4 +1,10 @@
-p= int(input(''))
+'''
+Even More Odd Photos
+tinyCodersDen
+USACO
+2021 January Contest, Bronze
+'''
+p = int(input(''))
 ask = input('').split(' ')
 even = 0
 odd = 0
